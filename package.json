@@ -1,0 +1,22 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@remix-project/remixd": "^0.4.1",
+    "openzeppelin-solidity": "^4.1.0",
+    "truffle": "^5.3.12"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.4.1",
+    "dotenv": "^10.0.0"
+  }
+}
